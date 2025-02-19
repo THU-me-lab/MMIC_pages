@@ -54,7 +54,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-copyright: 本文档只用于清华大学系统动力学与控制课程了教学。未经许可，禁止转载。
+copyright: 本文档只用于清华大学机电测试与智能控制教学。未经许可，禁止转载。
 
 extra_javascript:
   - javascripts/mathjax.js
