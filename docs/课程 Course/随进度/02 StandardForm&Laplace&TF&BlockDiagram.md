@@ -83,11 +83,6 @@ $$
 x(t)=t^n \cdot 1(t) \quad \Rightarrow \quad X(s)=\frac{n!}{s^{n+1}}
 $$
 
-```mathematica
---8<-- "拉普拉斯变换.nb"
---8<-- "./拉普拉斯变换.nb"
-```
-
 - 指数函数
 
 $$
