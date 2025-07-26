@@ -1,0 +1,39 @@
+<script>
+  window.chatbaseConfig = {
+    chatbotId: "mPR907bZf1i2t2rQus3d-",
+    userId: "trusted-user",
+    signature:
+      "16c0cb9d350b7c8a930c6e312750897e98ea10644b7dc6dd37d6c2d26b54d5ef", // ✅ HMAC 签名
+  };
+
+  (function () {
+    if (!window.chatbase || window.chatbase("getState") !== "initialized") {
+      window.chatbase = (...arguments) => {
+        if (!window.chatbase.q) {
+          window.chatbase.q = [];
+        }
+        window.chatbase.q.push(arguments);
+      };
+      window.chatbase = new Proxy(window.chatbase, {
+        get(target, prop) {
+          if (prop === "q") {
+            return target.q;
+          }
+          return (...args) => target(prop, ...args);
+        },
+      });
+    }
+    const onLoad = function () {
+      const script = document.createElement("script");
+      script.src = "https://www.chatbase.co/embed.min.js";
+      script.id = "mPR907bZf1i2t2rQus3d-";
+      script.domain = "www.chatbase.co";
+      document.body.appendChild(script);
+    };
+    if (document.readyState === "complete") {
+      onLoad();
+    } else {
+      window.addEventListener("load", onLoad);
+    }
+  })();
+</script>

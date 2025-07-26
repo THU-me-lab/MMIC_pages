@@ -4,6 +4,7 @@ repo_url: https://github.com/THU-me-lab/MMIC_pages
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - content.code.copy
     - content.code.select
