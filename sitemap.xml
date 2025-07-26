@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://mydomain.org/mysite/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/01%20%E5%85%B3%E4%BA%8E%E6%9C%AC%E8%AF%BE%E7%A8%8B/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E5%85%B3%E4%BA%8E%20About/03%20%E5%85%B3%E4%BA%8E%E8%AF%BE%E7%A8%8B%E5%AE%89%E6%8E%92/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/01%20Introduction%26Modeling/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/02%20StandardForm%26Laplace%26TF%26BlockDiagram/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/03%20Stablity%26Response%26Modeling/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/04%20Modeling%26Feedback%26ErrorAnalysis/"/>
+    </url>
+    <url>
+        <loc>https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/</loc>
+        <lastmod>2025-07-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://mydomain.org/mysite/en/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://mydomain.org/mysite/%E8%AF%BE%E7%A8%8B%20Course/%E9%9A%8F%E8%BF%9B%E5%BA%A6/05%20Signals/"/>
+    </url>
+</urlset>
