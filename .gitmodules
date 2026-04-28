@@ -1,3 +1,6 @@
 [submodule "mkdocs-material"]
 	path = mkdocs-material
 	url = https://github.com/squidfunk/mkdocs-material.git
+[submodule "assets"]
+	path = docs/assets
+	url = https://github.com/THU-me-lab/assets.git
